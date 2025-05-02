@@ -10,7 +10,7 @@ Getting started is a breeze! Follow these steps to launch the UI:
    Grab the code from GitHub:
 
    ```bash
-   git clone https://github.com/yourusername/Jarvis-AI-UI.git
+   git clone https://github.com/Aryaan-Dev/Jarvis-AI-UI.git
    cd Jarvis-AI-UI
    ```
 
